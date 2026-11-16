@@ -21,3 +21,7 @@ Alternative : Netlify Drop permet de déposer le dossier sur un hébergement HTT
 
 ## Limites de sécurité
 Cette version ne comporte aucun compte utilisateur, aucune authentification distante, aucun contrôle système et aucune connexion aux caméras. Évitez de saisir des secrets dans le champ de commandes. Le site statique est public si hébergé publiquement. Le micro ne s'active que sur action utilisateur. Il n'y a pas d'écoute permanente du mot-clé Jarvis sur iOS.
+
+
+## Version 0.2
+Hologramme redessiné en filaments lumineux fluides via Canvas 2D, sans anneaux pointillés. Animations réactives aux états écoute/parole et respect du réglage Réduire les animations. Les commandes et fonctions de la v0.1 sont conservées. Pour actualiser GitHub Pages, remplacer les fichiers du dépôt, puis recharger la PWA.
